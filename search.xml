@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>关于博客所有插件的笔记...</title>
+      <link href="/2024/08/09/note/"/>
+      <url>/2024/08/09/note/</url>
+      
+        <content type="html"><![CDATA[<h2 id="参考文件"><a href="#参考文件" class="headerlink" title="参考文件"></a>参考文件</h2><p><a href="https://butterfly.js.org/posts/dc584b87/">Butterfly 安裝文檔(二) 主題頁面</a></p><hr><h2 id="代码高亮主题"><a href="#代码高亮主题" class="headerlink" title="代码高亮主题"></a>代码高亮主题</h2><p>Mac</p><h2 id="Gallery相册"><a href="#Gallery相册" class="headerlink" title="Gallery相册"></a>Gallery相册</h2><p>用的是第二版</p><h2 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h2><p>algolia</p><h2 id="分享"><a href="#分享" class="headerlink" title="分享"></a>分享</h2><p>Sharejs</p><h2 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h2><p>Valine,Disqus</p><p>为了防止我自己忘记，我弄了个这么个备忘录一样的东西…</p><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> common </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>各种媒体测试</title>
+      <link href="/2024/08/08/mediatest/"/>
+      <url>/2024/08/08/mediatest/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hmmmm，这个应该还是一个测试吧。"><a href="#hmmmm，这个应该还是一个测试吧。" class="headerlink" title="hmmmm，这个应该还是一个测试吧。"></a>hmmmm，这个应该还是一个测试吧。</h1><h2 id="怎么添加图片呢…"><a href="#怎么添加图片呢…" class="headerlink" title="怎么添加图片呢…"></a>怎么添加图片呢…</h2><p><img src="https://cdn.donmai.us/original/17/c5/__yarai_miu_dracu_riot_drawn_by_kaon_zz__17c584725c0435c516b07f8074374276.png" alt="可爱的美羽"></p><h2 id="那么…怎么插入视频呢…"><a href="#那么…怎么插入视频呢…" class="headerlink" title="那么…怎么插入视频呢…"></a>那么…怎么插入视频呢…</h2><iframe width="100%" height="450" src="//player.bilibili.com/player.html?isOutside=true&aid=754728394&bvid=BV1dk4y1k7Fe&cid=237590892&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 。 </iframe> <h2 id="最后，如何添加音乐呢…"><a href="#最后，如何添加音乐呢…" class="headerlink" title="最后，如何添加音乐呢…"></a>最后，如何添加音乐呢…</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=4920682&auto=1&height=66"></iframe>_就这样吧_----------<p><em>Forward thinking</em></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> common </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/08/07/hello-world/"/>
+      <url>/2024/08/07/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
