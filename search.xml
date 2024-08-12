@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>你也想建立一个自己的博客吗？</title>
+      <link href="/2024/08/12/hexo_guidence/"/>
+      <url>/2024/08/12/hexo_guidence/</url>
+      
+        <content type="html"><![CDATA[<hr><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>I know 建立一个博客不简单…</p><p>Bro,说不定你也见过那些教程了，<strong>那简直说的不是人话，全都留给你自己去理解了。</strong></p><p>实际上，<strong>只是专业的人不喜欢说人话罢了。</strong></p><p>毕竟我自己就花了一小时搞这个东西，man，如果没有任何电脑基础我觉得会花更多时间。<br>所以我可以给在看这篇文章的<strong>你</strong>一点小建议！</p><p>当然<strong>我不会亲手教你怎么做的</strong>，我会给你一个视频让你看，以及给你做好准备。</p><p>这篇文章基于用&#x3D;&#x3D;Hexo&#x3D;&#x3D;这个框架，&#x3D;&#x3D;Butterfly&#x3D;&#x3D;这个主题来教，你也可以用<em>Wordpress</em>这种别的框架，不过，第一次尝试嘛，先试试别人准备好的吧！</p><p>&#x3D;&#x3D;<em>你听不懂框架，主题吗？觉得已经开始难了？没关系，让我来解释一下，照着教程做的话，实际上只相当于拿完整的一台电脑打游戏罢了，非常简单。</em> #000000&#x3D;&#x3D;</p><hr><h1 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h1><h2 id="一-需要准备的软件"><a href="#一-需要准备的软件" class="headerlink" title="一 需要准备的软件"></a>一 需要准备的软件</h2><p><a href="https://code.visualstudio.com/Download">Microsoft VS Code</a><br>（你可以点击他们的名字来下载！）<br><a href="https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe">Git</a><br>(Git的下载位置在Github，你可能需要魔法才能访问)<br><a href="https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi">Node.js</a></p><p>你需要一个Markdown编辑器来书写博客，我在用<a href="https://markdown.xiaoshujiang.com/">小书匠</a>，你可以参考。</p><h2 id="二-准备一个带有互联网连接的PC"><a href="#二-准备一个带有互联网连接的PC" class="headerlink" title="二 准备一个带有互联网连接的PC"></a>二 准备一个带有互联网连接的PC</h2><p>最好在Windows 10 1709版本以上啦，LTS版本不支持。<br>Server版本也不支持，也许你可以自己实践一下….()</p><h2 id="三-账号准备"><a href="#三-账号准备" class="headerlink" title="三 账号准备"></a>三 账号准备</h2><p>你需要注册一些账号以便于使用他们的服务帮助你建立博客。</p><p>1.<a href="https://github.com/">Github</a></p><p>2.<a href="https://zeabur.com/zh-CN">Zeabur</a></p><h2 id="四-准备完成"><a href="#四-准备完成" class="headerlink" title="四 准备完成"></a>四 准备完成</h2><p>那么…接下来可以准备好你的手机或者电脑看视频了！</p><p>&#x3D;&#x3D;这里我看的是Up主<a href="https://space.bilibili.com/46377861">神烦老狗</a>的视频 #000000&#x3D;&#x3D;。</p><iframe src="//player.bilibili.com/player.html?aid=1456411849&cid=1633361964&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><hr><p>如果你有能力，其实最好是买一个服务器，不过嘛，跟着教程做不需要任何金钱消费，所以大胆去试试吧。</p><hr><h1 id="后续"><a href="#后续" class="headerlink" title="后续"></a>后续</h1><p>你建好了网站对吧…</p><p>那么你一定需要更多教程来完善你的博客了。</p><p>来看看接下来的教程吧！</p><p><a href="https://butterfly.js.org/posts/21cfbf15/">Butterfly快速开始文档</a></p><p>接下来…就交给你了。</p><hr><p>Forword,thinking</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> commonn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于博客所有插件的笔记...</title>
       <link href="/2024/08/09/note/"/>
       <url>/2024/08/09/note/</url>
